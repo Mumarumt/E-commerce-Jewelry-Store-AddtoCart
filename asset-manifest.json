@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//Mumarumt.github.io/E-commerce-Jewelry-Store-AddtoCart/static/css/main.e2a13c1a.css",
+    "main.js": "/https//Mumarumt.github.io/E-commerce-Jewelry-Store-AddtoCart/static/js/main.b81be581.js",
+    "index.html": "/https//Mumarumt.github.io/E-commerce-Jewelry-Store-AddtoCart/index.html",
+    "main.e2a13c1a.css.map": "/https//Mumarumt.github.io/E-commerce-Jewelry-Store-AddtoCart/static/css/main.e2a13c1a.css.map",
+    "main.b81be581.js.map": "/https//Mumarumt.github.io/E-commerce-Jewelry-Store-AddtoCart/static/js/main.b81be581.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2a13c1a.css",
+    "static/js/main.b81be581.js"
+  ]
+}
